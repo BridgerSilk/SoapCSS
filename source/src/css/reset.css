@@ -1,0 +1,39 @@
+/* reset.css */
+/* Reset all the default styles */
+
+/* Box sizing border-box for all elements */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Remove list styles (bullets/numbers) */
+ul, ol {
+    list-style: none;
+}
+
+/* Remove default hyperlink styles */
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Remove default button styles */
+button, input[type="button"], input[type="submit"], input[type="reset"] {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+}
+
+/* Remove outline from links and other elements on focus */
+*:focus {
+    outline: none;
+}
+
+/* Reset some default styles for common elements */
+body, h1, h2, h3, p, blockquote, figure, fieldset, legend, input, textarea, select {
+    margin: 0;
+    padding: 0;
+}

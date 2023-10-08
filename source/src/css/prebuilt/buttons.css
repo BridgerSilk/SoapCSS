@@ -1,0 +1,14 @@
+@import url();
+
+.button-simple-dark{
+    background-color: #333; /* Dark background color */
+    color: #fff; /* Text color */
+    padding: 10px 20px; /* Padding for the button */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+    transition: background-color 0.3s ease; /* Smooth background color transition */
+    cursor: pointer;
+}
+.button-simple-dark:hover{
+    background-color: #555;
+}
