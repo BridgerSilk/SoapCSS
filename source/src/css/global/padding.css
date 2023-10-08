@@ -150,3 +150,12 @@
     padding-left: 192px;
     padding-right: 192px;
 }
+
+.padding-vert-200px{
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.padding-hor-200px{
+    padding-left: 200px;
+    padding-right: 200px;
+}
