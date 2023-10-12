@@ -10,3 +10,9 @@
 .font-style-inherit{
     font-style: inherit;
 }
+.font-style-initial{
+    font-style: initial;
+}
+.font-style-unset{
+    font-style: unset;
+}
