@@ -96,6 +96,12 @@ document.addEventListener("DOMContentLoaded", () => {
           const value15 = className.slice(13)
           element.style["borderWidth"] = value15
         }
+
+        // Color
+        if (className.startsWith("color-")) {
+          const value16 = className.slice(6)
+          element.style["color"] = value16
+        }
       })
     })
   })
