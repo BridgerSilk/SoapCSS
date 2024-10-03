@@ -1,0 +1,108 @@
+/* Text Align */
+.txt-al-l{
+    text-align: left;
+}
+.txt-al-c{
+    text-align: center;
+}
+.txt-al-r{
+    text-align: right;
+}
+.txt-al-j{
+    text-align: justify;
+}
+
+/* Text Decoration */
+.txt-dec-ul{
+    text-decoration: underline;
+}
+.txt-dec-ol{
+    text-decoration: overline;
+}
+.txt-dec-lt{
+    text-decoration: line-through;
+}
+.txt-dec-none{
+    text-decoration: none;
+}
+
+/* Text Decoration Thickness  */
+/* (in dynamic-classes.js) (needs to be added!) */
+
+.txt-dec-st-ds{
+    text-decoration-style: dashed;
+}
+.txt-dec-st-dt{
+    text-decoration-style: dotted;
+}
+.txt-dec-st-so{
+    text-decoration-style: solid;
+}
+.txt-dec-st-db{
+    text-decoration-style: double;
+}
+.txt-dec-st-wv{
+    text-decoration-style: wavy;
+}
+.txt-dec-st-no{
+    text-decoration-style: none;
+}
+
+/* Text Transform */
+.txt-trf-up{
+    text-transform: uppercase;
+}
+.txt-trf-up{
+    text-transform: lowercase;
+}
+.txt-trf-cp{
+    text-transform: capitalize;
+}
+.txt-trf-no{
+    text-transform: none;
+}
+
+/* Text Align */
+.txt-alg-ct{
+    text-align: center;
+}
+.txt-alg-l{
+    text-align: center;
+}
+.txt-alg-r{
+    text-align: center;
+}
+.txt-alg-jf{
+    text-align: center;
+}
+
+/* Text Overflow */
+.txt-of-tc{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.txt-of-ep{
+    text-overflow: ellipsis;
+}
+.txt-of-cp{
+    text-overflow: clip;
+}
+
+/* Word Break */
+.txt-br-nm{
+    overflow-wrap: normal;
+    word-break: normal;
+}
+.txt-br-wd{
+    overflow-wrap: break-word;
+}
+.txt-br-all{
+    word-break: break-all;
+}
+
+/* Content */
+.txt-cnt-no{
+    content: none;
+}
+

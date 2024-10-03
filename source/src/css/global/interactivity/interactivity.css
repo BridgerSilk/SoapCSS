@@ -1,0 +1,135 @@
+/* Appearance */
+.iac-app-no{
+    appearance: none;
+}
+
+/* Cursor */
+.iac-cur-at{
+    cursor: auto;
+}
+.iac-cur-df{
+    cursor: default;
+}
+.iac-cur-pt{
+    cursor: pointer;
+}
+.iac-cur-wa{
+    cursor: wait;
+}
+.iac-cur-txt{
+    cursor: text;
+}
+.iac-cur-mv{
+    cursor: move;
+}
+.iac-cur-hl{
+    cursor: help;
+}
+.iac-cur-na{
+    cursor: not-allowed;
+}
+.iac-cur-no{
+    cursor: none;
+}
+.iac-cur-ctm{
+    cursor: context-menu;
+}
+.iac-cur-pg{
+    cursor: progress;
+}
+.iac-cur-cll{
+    cursor: cell;
+}
+.iac-cur-ch{
+    cursor: crosshair;
+}
+.iac-cur-vt{
+    cursor: vertical-text;
+}
+.iac-cur-a{
+    cursor: alias;
+}
+.iac-cur-cp{
+    cursor: copy;
+}
+.iac-cur-nd{
+    cursor: no-drop;
+}
+.iac-cur-gb{
+    cursor: grab;
+}
+.iac-cur-gbg{
+    cursor: grabbing;
+}
+.iac-cur-asl{
+    cursor: all-scroll;
+}
+.iac-cur-crs{
+    cursor: col-resize;
+}
+.iac-cur-rr{
+    cursor: row-resize;
+}
+.iac-cur-nrs{
+    cursor: n-resize;
+}
+.iac-cur-ers{
+    cursor: e-resize;
+}
+.iac-cur-srs{
+    cursor: s-resize;
+}
+.iac-cur-wrs{
+    cursor: w-resize;
+}
+.iac-cur-zi{
+    cursor: zoom-in;
+}
+.iac-cur-zo{
+    cursor: zoom-out;
+}
+
+/* Pointer Events */
+.iac-pe-no{
+    pointer-events: none;
+}
+.iac-pe-all{
+    pointer-events: all;
+}
+.iac-pe-fll{
+    pointer-events: fill;
+}
+.iac-pe-pt{
+    pointer-events: painted;
+}
+.iac-pe-st{
+    pointer-events: stroke;
+}
+.iac-pe-vb{
+    pointer-events: visible;
+}
+.iac-pe-vbf{
+    pointer-events: visibleFill;
+}
+.iac-pe-vbp{
+    pointer-events: visiblePainted;
+}
+.iac-pe-vbs{
+    pointer-events: visibleStroke;
+}
+
+/* Resize */
+.iac-rs-no{
+    resize: none;
+}
+.iac-rs-bo{
+    resize: both;
+}
+.iac-rs-vt{
+    resize: vertical;
+}
+.iac-rs-hz{
+    resize: horizontal;
+}
+
+/*  */

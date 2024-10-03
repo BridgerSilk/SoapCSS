@@ -1,0 +1,18 @@
+/* List Style Types */
+.li-st-no{
+    list-style: none;
+}
+.li-st-di{
+    list-style: disc;
+}
+.li-st-de{
+    list-style: decimal;
+}
+
+/* List Style Position */
+.li-pos-inside{
+    list-style-position: inside;
+}
+.li-pos-outside{
+    list-style-position: outside;
+}

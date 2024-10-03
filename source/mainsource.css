@@ -1,14 +1,28 @@
 /* components */
-@import url(https://github.com/BridgerSilk/SoapCSS/blob/main/source/src/css/components/component-buttons.css); /* component-buttons.css */
-@import url(https://github.com/BridgerSilk/SoapCSS/blob/main/source/src/css/components/component-containers.css); /* component-containers.css */
-/* font */
-@import url(https://github.com/BridgerSilk/SoapCSS/blob/main/source/src/css/global/font/font-families.css); /* font-families.css */
-@import url(https://github.com/BridgerSilk/SoapCSS/blob/main/source/src/css/global/font/font-sizes.css); /* font-sizes.css */
-@import url(https://github.com/BridgerSilk/SoapCSS/blob/main/source/src/css/global/font/font-styles.css); /* font-styles.css */
-/* other */
-@import url(https://github.com/BridgerSilk/SoapCSS/blob/main/source/src/css/global/other/containers.css); /* containers.css */
-@import url(https://github.com/BridgerSilk/SoapCSS/blob/main/source/src/css/global/other/padding.css); /* padding.css */
-/* reset */
-@import url(https://github.com/BridgerSilk/SoapCSS/blob/main/source/src/css/reset.css); /* reset.css obviously lol */
+@import url(https://github.com/BridgerSilk/SoapCSS/blob/main/source/src/css/components/component-buttons.css);
+@import url(https://github.com/BridgerSilk/SoapCSS/blob/main/source/src/css/components/component-containers.css);
+@import url(https://github.com/BridgerSilk/SoapCSS/blob/main/source/src/css/components/grids.css);
 
-/*# sourceMappingURL=mainsource.css.map */
+/* effects */
+@import url(); /* todo: add gh effects.css link when pushed */
+
+/* interactivity */
+@import url(); /* todo: add gh interactivity.css link when pushed */
+
+/* layout */
+@import url(); /* todo: add gh borders.css link when pushed */
+@import url(); /* todo: add gh colors.css link when pushed */
+
+/* typography */
+@import url(); /* todo: add gh font-families.css link when pushed */
+@import url(); /* todo: add gh font-styles.css link when pushed */
+@import url(); /* todo: add gh lists.css link when pushed */
+@import url(); /* todo: add gh other.css link when pushed */
+@import url(); /* todo: add gh text.css link when pushed */
+
+/* other */
+@import url(https://github.com/BridgerSilk/SoapCSS/blob/main/source/src/css/global/other/containers.css);
+@import url(https://github.com/BridgerSilk/SoapCSS/blob/main/source/src/css/global/other/padding.css);
+
+/* reset */
+@import url(https://github.com/BridgerSilk/SoapCSS/blob/main/source/src/css/reset.css);

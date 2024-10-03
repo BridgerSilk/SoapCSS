@@ -1,18 +1,18 @@
-.font-style-italic{
+.ft-st-italic{
     font-style: italic;
 }
-.font-style-normal{
+.ft-st-normal{
     font-style: normal;
 }
-.font-style-oblique{
+.ft-st-oblique{
     font-style: oblique;
 }
-.font-style-inherit{
+.ft-st-inherit{
     font-style: inherit;
 }
-.font-style-initial{
+.ft-st-initial{
     font-style: initial;
 }
-.font-style-unset{
+.ft-st-unset{
     font-style: unset;
 }

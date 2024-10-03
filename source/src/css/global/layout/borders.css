@@ -1,0 +1,39 @@
+.bd-st-dashed{
+    border-style: dashed;
+}
+.bd-st-dotted{
+    border-style: dotted;
+}
+.bd-st-double{
+    border-style: double;
+}
+.bd-st-groove{
+    border-style: groove;
+}
+.bd-st-hidden{
+    border-style: hidden;
+}
+.bd-st-inherit{
+    border-style: inherit;
+}
+.bd-st-initial{
+    border-style: initial;
+}
+.bd-st-inset{
+    border-style: inset;
+}
+.bd-st-none{
+    border-style: none;
+}
+.bd-st-outset{
+    border-style: outset;
+}
+.bd-st-ridge{
+    border-style: ridge;
+}
+.bd-st-solid{
+    border-style: solid;
+}
+.bd-st-unset{
+    border-style: unset;
+}

@@ -1,0 +1,146 @@
+/* Box Shadow */
+.eff-bsh-xs{
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.05);
+}
+.eff-bsh-sm{
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+}
+.eff-bsh{
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+}
+.eff-bsh-md{
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+.eff-bsh-lg{
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+.eff-bsh-xl{
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
+.eff-bsh-2xl{
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+}
+.eff-bsh-in{
+    box-shadow: inset 0 2px 4px 0 rgba(0, 0, 0, 0.06);
+}
+.eff-bsh-out{
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.5);
+}
+.eff-bsh-no{
+    box-shadow: none;
+}
+
+/* Opacity */
+.eff-op-0{
+    opacity: 0;
+}
+.eff-op-5{
+    opacity: 0.05;
+}
+.eff-op-10{
+    opacity: 0.1;
+}
+.eff-op-15{
+    opacity: 0.15;
+}
+.eff-op-20{
+    opacity: 0.2;
+}
+.eff-op-25{
+    opacity: 0.25;
+}
+.eff-op-30{
+    opacity: 0.3;
+}
+.eff-op-35{
+    opacity: 0.35;
+}
+.eff-op-40{
+    opacity: 0.4;
+}
+.eff-op-45{
+    opacity: 0.45;
+}
+.eff-op-50{
+    opacity: 0.5;
+}
+.eff-op-55{
+    opacity: 0.55;
+}
+.eff-op-60{
+    opacity: 0.6;
+}
+.eff-op-65{
+    opacity: 0.65;
+}
+.eff-op-70{
+    opacity: 0.7;
+}
+.eff-op-75{
+    opacity: 0.75;
+}
+.eff-op-80{
+    opacity: 0.8;
+}
+.eff-op-85{
+    opacity: 0.85;
+}
+.eff-op-90{
+    opacity: 0.9;
+}
+.eff-op-95{
+    opacity: 0.95;
+}
+.eff-op-100{
+    opacity: 1;
+}
+
+/* Mix Blend Mode */
+.eff-mbm-nm{
+    mix-blend-mode: normal;
+}
+.eff-mbm-mp{
+    mix-blend-mode: multiply;
+}
+.eff-mbm-sc{
+    mix-blend-mode: screen;
+}
+.eff-mbm-ol{
+    mix-blend-mode: overlay;
+}
+.eff-mbm-dk{
+    mix-blend-mode: darken;
+}
+.eff-mbm-lt{
+    mix-blend-mode: lighten;
+}
+.eff-mbm-cd{
+    mix-blend-mode: color-dodge;
+}
+.eff-mbm-cb{
+    mix-blend-mode: color-burn;
+}
+.eff-mbm-hl{
+    mix-blend-mode: hard-light;
+}
+.eff-mbm-sl{
+    mix-blend-mode: soft-light;
+}
+.eff-mbm-df{
+    mix-blend-mode: difference;
+}
+.eff-mbm-ex{
+    mix-blend-mode: exclusion;
+}
+.eff-mbm-hue{
+    mix-blend-mode: hue;
+}
+.eff-mbm-sr{
+    mix-blend-mode: saturation;
+}
+.eff-mbm-c{
+    mix-blend-mode: color;
+}
+.eff-mbm-lm{
+    mix-blend-mode: luminosity;
+}
