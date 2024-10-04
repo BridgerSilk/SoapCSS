@@ -1,10 +1,10 @@
 /* components */
 @import url(src/css/components/buttons.css);
-@import url(https://cdn.jsdelivr.net/gh/BridgerSilk/SoapCSS/source/src/css/components/component-containers.css);
-@import url(https://cdn.jsdelivr.net/gh/BridgerSilk/SoapCSS/source/src/css/components/grids.css);
+@import url(src/css/components/component-containers.css);
+@import url(src/css/components/grids.css);
 
 /* effects */
-@import url(https://cdn.jsdelivr.net/gh/BridgerSilk/SoapCSS/source/src/css/global/effects/effects.css); /* todo: add gh effects.css link when pushed */
+@import url(src/css/global/effects/effects.css);
 
 /* interactivity */
 @import url(); /* todo: add gh interactivity.css link when pushed */
